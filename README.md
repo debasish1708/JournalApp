@@ -1,0 +1,2 @@
+# JournalApp
+Spring Boot Project
